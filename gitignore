@@ -1,0 +1,25 @@
+# Dependências de Node.js
+node_modules/
+
+# Relatórios de cobertura de testes
+coverage/
+
+# Arquivo de bloqueio do pnpm (se estiver usando pnpm)
+pnpm-lock.yaml
+
+# Logs
+*.log
+
+# Arquivos de configuração do ambiente
+.env
+
+# Arquivos temporários do sistema
+.DS_Store
+
+# Arquivos de configuração específicos do IDE
+.vscode/
+.idea/
+
+# Outras pastas ou arquivos que você não deseja incluir
+*.tmp
+*.bak
